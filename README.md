@@ -1,4 +1,4 @@
-# Project Name
+# Crm
 
 This project is a web application developed using the Laravel framework. It incorporates RESTful API integration, making communication seamless and efficient. The project includes several key features such as event handling, form request validation, a service layer, a repository layer, and API testing.
 
